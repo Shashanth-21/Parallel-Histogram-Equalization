@@ -1,12 +1,3 @@
-/*
- ============================================================================
- Name        : histogram_equalization_CUDA.cu
- Author      : francesco
- Version     :
- Copyright   : Your copyright notice
- Description : CUDA compute reciprocals
- ============================================================================
- */
 
 #include <iostream>
 #include <stdlib.h>
